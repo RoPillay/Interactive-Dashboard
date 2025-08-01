@@ -1,4 +1,4 @@
-# Interactive Dashboard 
+# Real Estate Interactive Dashboard 
 An interactive HTML dashboard that allows users to explore real estate data from 8 counties near Davis, CA. This tool looks into the relationships between property price, square footage, and geographic location among others.
 
 ## Features
